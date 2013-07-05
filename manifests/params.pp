@@ -1,4 +1,4 @@
-# Optional parameters in setting up ELRepo Yum repository
+# Optional parameters in setting up NGINX Yum repository
 class repo_nginx::params {
   # Setting to 'absent' will fall back to the yum.conf
   # Setting proxy here will be the default for all repos.
