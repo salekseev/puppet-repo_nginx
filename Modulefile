@@ -1,5 +1,5 @@
 name 'salekseev-repo_nginx'
-version '0.1.0'
+version '0.1.1'
 
 author 'Stas Alekseev'
 license 'Apache License, Version 2.0'
